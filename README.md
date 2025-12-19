@@ -35,14 +35,13 @@ The architecture follows a Retrieval-Augmented Generation (RAG) approach to ensu
    - Recipe ingredients
 
 4. Backend returns:
-   - Safe alternative ingredients
-   - Detailed cooking instructions
+   - Detailed cooking instructions, keeping dietry constraints in mind.
 
 ## 🛠️ Technologies Used
 
 ### Flask
 - Lightweight WSGI framework
-- Handles routing, request validation, and JSON responses
+- Handles routing and JSON responses
 
 ### LangChain
 - Orchestrates LLM calls, prompts, and tool usage
