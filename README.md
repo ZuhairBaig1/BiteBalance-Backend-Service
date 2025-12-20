@@ -3,7 +3,7 @@
 BiteBalance Backend is a Flask-based API that powers a health-aware, AI-driven recipe recommendation system.  
 It integrates LLMs, vector search (RAG), and external search tools to generate personalized, safe recipes based on a user’s health conditions.
 
-This repository contains only the backend implementation, which I was solely responsible for designing and developing.
+This repository contains only the backend implementation, which I was solely responsible for designing and developing, as part of my final year engineering project
 
 ## 🚀 Overview
 
